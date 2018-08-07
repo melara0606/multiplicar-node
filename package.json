@@ -1,0 +1,11 @@
+{
+  "name": "03-base-node",
+  "version": "1.0.0",
+  "description": "Esta es una aplicacion de linea de comando",
+  "main": "app.js",
+  "author": "Edwin Melara <melara0606@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
